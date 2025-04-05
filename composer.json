@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.1",
+        "phpoffice/phpspreadsheet": "1.24"
+    }
+}
